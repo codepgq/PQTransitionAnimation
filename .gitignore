@@ -6,6 +6,9 @@
 build/
 DerivedData/
 
+## 去掉DS.Stroe
+.DS_Store
+
 ## Various settings
 *.pbxuser
 !default.pbxuser
